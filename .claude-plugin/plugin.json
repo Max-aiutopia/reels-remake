@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "reels-remake",
+  "version": "0.1.0",
+  "description": "照爆紅短影音的節奏，用自己的聲音和畫面重做一支：拆片、配音接緊（句子之間不留空白）、組片、燒字幕（也出 SRT 給 CapCut）、交片檢查。",
+  "author": {
+    "name": "Max Chien",
+    "url": "https://max-aiutopia.github.io"
+  },
+  "homepage": "https://github.com/Max-aiutopia/reels-remake",
+  "repository": "https://github.com/Max-aiutopia/reels-remake",
+  "license": "MIT",
+  "keywords": ["reels", "short-video", "remake", "subtitles", "voiceover", "ffmpeg", "whisper", "capcut"],
+  "skills": ["./"]
+}

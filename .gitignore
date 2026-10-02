@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 專案資料夾不要放進來（原片、配音、成片都是你自己的）
+projects/
+*.mp4
+*.mov
+*.wav
+*.mp3

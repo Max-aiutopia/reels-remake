@@ -1,0 +1,15 @@
+{
+  "name": "max-aiutopia",
+  "description": "Max Chien 的 Claude Code 外掛",
+  "owner": {
+    "name": "Max Chien",
+    "url": "https://github.com/Max-aiutopia"
+  },
+  "plugins": [
+    {
+      "name": "reels-remake",
+      "source": "./",
+      "description": "照爆紅短影音的節奏，用自己的聲音和畫面重做一支：拆片、配音接緊、組片、燒字幕、交片檢查。"
+    }
+  ]
+}
